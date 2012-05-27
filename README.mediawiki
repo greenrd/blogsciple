@@ -1,0 +1,10 @@
+Rewrite of [https://github.com/bergie/blogsiple blogsiple] in Scala,
+using [https://github.com/playframework/play Play 2].
+
+== Status ==
+
+At the moment, literally ''nothing'' is implemented. That's right, nothing. Because...
+
+== TODO ==
+
+The plan is to follow Test Driven Development. So see the <code>test/</code> directory.

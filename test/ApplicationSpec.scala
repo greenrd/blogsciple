@@ -6,9 +6,7 @@ import play.api.test._
 import play.api.test.Helpers._
 
 /**
- * Add your spec here.
- * You can mock out a whole application including requests, plugins etc.
- * For more information, consult the wiki.
+ * This code is unchanged from the Play 2 Scala g8 template - ignore it! 
  */
 class ApplicationSpec extends Specification {
   
