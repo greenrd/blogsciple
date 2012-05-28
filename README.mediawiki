@@ -5,6 +5,8 @@ using [https://github.com/playframework/play Play 2].
 
 At the moment, literally ''nothing'' is implemented. That's right, nothing. Because...
 
+https://buildhive.cloudbees.com/job/greenrd/job/blogsciple/badge/icon
+
 == TODO ==
 
 The plan is to follow Test Driven Development. So see the <code>test/</code> directory.
